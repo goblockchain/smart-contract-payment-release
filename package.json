@@ -1,0 +1,27 @@
+{
+  "name": "smart-contract-payment-release",
+  "version": "0.0.1",
+  "description": "Project is responsible to manage the payments release in the blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "console": "truflle console"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblockchain/smart-contract-payment-release.git"
+  },
+  "keywords": [],
+  "author": "GoBlockchain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goblockchain/smart-contract-payment-release/issues"
+  },
+  "homepage": "https://github.com/goblockchain/smart-contract-payment-release#readme",
+  "dependencies": {
+    "zeppelin-solidity": "1.6.0"
+  }
+}
